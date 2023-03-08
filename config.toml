@@ -1,0 +1,10 @@
+baseURL = 'https://fantasticmao.github.io/'
+title = 'FantasticMao 写字的地方'
+theme = 'Momo'
+
+languageCode = 'zh-cn'
+defaultContentLanguage = 'zh-cn'
+publishDir = 'docs'
+
+[params]
+icp_record = '浙 ICP 备 17009730 号'
