@@ -1,10 +1,12 @@
 baseURL = 'https://fantasticmao.github.io/i/'
-title = 'FantasticMao 写字的地方'
+title = 'FantasticMao 的自说自话'
 theme = 'Momo'
 
 languageCode = 'zh-cn'
-defaultContentLanguage = 'zh-cn'
 publishDir = 'docs'
 
 [params]
+author = 'FantasticMao'
+description = 'FantasticMao 的自说自话'
+keywords = "FantasticMao, 人生的意义, 平平淡淡才是真"
 icp_record = '浙 ICP 备 17009730 号'
